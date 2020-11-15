@@ -68,3 +68,11 @@ cheat21_code = "8020305A 007E"
 cheat22_desc = "[Slot D Codes]\Have All Max 100 Coin Records For All Levels"
 cheat22_enable = false
 cheat22_code = "50000F01 0000;80203075 0064"
+cheat23_desc = BLJ (Backwards long jump)
+cheat23_enable = false
+cheat23_code = D033AFA0 00A0
+D033B1C4 00C1
+8133B1BC C220
+D033AFA0 00A0
+D033B1C4 00C2
+8133B1BC C220
